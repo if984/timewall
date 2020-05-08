@@ -4,6 +4,6 @@
 ## Mail : anotherankor@gmail.com
 ## Github : @anotherankor
 
-# schedule wallpaper changing
 chmod +x "$(pwd)"/timewall.sh
+# schedule wallpaper changing
 crontab -l | { cat; echo "0 * * * * "$(pwd)"/timewall.sh"; } | crontab -

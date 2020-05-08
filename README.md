@@ -1,6 +1,6 @@
 # Timewall
 
-Inspired by <a href="https://github.com/adi1090x/dynamic-wallpaper">dynamic-wallpaper</a></br>
+Inspired by <a href="https://github.com/adi1090x/dynamic-wallpaper">dynamic-wallpaper</a>.</br>
 At now it works only on Gnome DE. But with your help it can work anywhere.</br>
 
 ### How to install
