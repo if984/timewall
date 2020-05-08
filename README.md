@@ -9,15 +9,9 @@ At now it works only on Gnome DE. But with your help it can work anywhere.</br>
 cd ~
 git clone https://github.com/AnotherAnkor/timewall.git
 cd timewall
-chmod +x timewall.sh
-```
-Then you can use 
-```bash
-crontab -e
-```
-and add string to your crontab file like:
-```bash
-0 * * * * /path/to/timewall.sh 
+chmod +x install.sh
+./install.sh
+
 ```
 By default used firewatch theme from original repo of dynamic-wallpaper. So you can easily change set of background by replacing basic set in 'images' folder.</br> 
 Feel free to send me your push requests. After testing I'll add it to this script.</br>
